@@ -44,8 +44,9 @@
 #### Trilhos: São os que estão em azul escuro, tem a funcao de conectar os componentes.
 
 ## Representacao 3D:
-<img src="https://github.com/user-attachments/assets/452b763f-97a0-49f8-8275-aa20b4f1bc90" width="600">
-<img src="https://github.com/user-attachments/assets/ed9b75b6-7b76-465a-863c-2cb6815fedb0" width="600">
+
+<img src="https://github.com/user-attachments/assets/51dd2fdf-0220-4a38-8a58-9a1ac8cf75d5" width="600">
+<img src="https://github.com/user-attachments/assets/59256e4b-a119-42e4-8993-ed61255e84f8" width="600">
 
 
 
