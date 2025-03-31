@@ -31,3 +31,9 @@
 ## Medicao Voltagem:
 <img src="https://github.com/user-attachments/assets/067de59f-9706-4fc0-9ac4-9bb7780b30a4" width="600">
 
+#### Transformador: Abaixa a tensão da rede elétrica para 12V em corrente alternada (CA).
+#### Ponte Retificadora: Transforma a corrente alternada em uma corrente contínua, porém ainda com variações.
+#### Capacitor: Atua como um estabilizador, armazenando e liberando carga para minimizar oscilações e aproximar o sinal de uma corrente contínua pura.
+#### Regulador de Tensão: Mantém a saída estável em 5V de corrente contínua (CC), garantindo um fornecimento constante de energia.
+#### As outras imagens de medicao nao foram adicionadas,porque o transformador nãe era o 7805.
+
