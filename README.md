@@ -38,8 +38,7 @@
 #### As outras imagens de medicao nao foram adicionadas,porque o transformador nãe era o 7805.
 
 ## Layout PCB:
-
-<img src="https://github.com/user-attachments/assets/2a6c0bfe-b519-4bf8-878c-9a7f0fd122e8" width="600">
+<img src="https://github.com/user-attachments/assets/44ddf865-1f78-4d41-84ff-a446d85a90c8" width="600">
 
 #### Componentes: São os que estão em azul claro, com a descrição do seu respectivo componente.
 #### Trilhos: São os que estão em azul escuro, tem a funcao de conectar os componentes.
