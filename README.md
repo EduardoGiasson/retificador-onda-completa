@@ -5,8 +5,6 @@
 
 ### Componentes e suas respectivas funções: 
 
-
-
 ####  Ponte Retificadora: Responsável por transformar a tensão alternada vinda do transformador em uma corrente contínua, mas ainda com ondulações.
 ####  Capacitor: Atua como um filtro, reduzindo as oscilações da tensão contínua que sai da ponte retificadora, deixando-a mais estável.
 ####  Transformador: Diminui a tensão da rede elétrica para um nível mais seguro e adequado ao circuito, além de proporcionar isolamento elétrico.
