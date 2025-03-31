@@ -1,4 +1,4 @@
-# Retificador Onda Completa
+![image](https://github.com/user-attachments/assets/17bab0a3-ef6e-46bc-b975-1ba66fc41901)# Retificador Onda Completa
 ## Esquematico Retificador Onda Completa
 
 <img src="https://github.com/user-attachments/assets/713991b9-fb3e-46f6-bc57-dcf1388df19e" width="600">
@@ -40,6 +40,14 @@
 ## Layout PCB:
 
 <img src="https://github.com/user-attachments/assets/2a6c0bfe-b519-4bf8-878c-9a7f0fd122e8" width="600">
+
+#### Componentes: São os que estão em azul claro, com a descrição do seu respectivo componente.
+#### Trilhos: São os que estão em azul escuro, tem a funcao de conectar os componentes.
+
+## Representacao 3D:
+<img src="https://github.com/user-attachments/assets/452b763f-97a0-49f8-8275-aa20b4f1bc90" width="600">
+<img src="https://github.com/user-attachments/assets/ed9b75b6-7b76-465a-863c-2cb6815fedb0" width="600">
+
 
 
 
