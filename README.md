@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/17bab0a3-ef6e-46bc-b975-1ba66fc41901)# Retificador Onda Completa
+# Retificador Onda Completa
 ## Esquematico Retificador Onda Completa
 
 <img src="https://github.com/user-attachments/assets/713991b9-fb3e-46f6-bc57-dcf1388df19e" width="600">
