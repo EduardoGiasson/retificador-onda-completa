@@ -12,3 +12,7 @@
 ####  Ponte de Diodo: Direciona a corrente elétrica em um único sentido, sendo essencial para a conversão de corrente alternada em contínua.
 ####  Resistor: Atua limitando a quantidade de corrente que passa por certos componentes, como o LED, evitando que queimem.
 ####  LED: Emite luz quando energizado, funcionando como um indicador visual do funcionamento do circuito.
+
+## Pratica
+
+<img src="https://github.com/user-attachments/assets/067de59f-9706-4fc0-9ac4-9bb7780b30a4" width="600">
