@@ -37,3 +37,9 @@
 #### Regulador de Tensão: Mantém a saída estável em 5V de corrente contínua (CC), garantindo um fornecimento constante de energia.
 #### As outras imagens de medicao nao foram adicionadas,porque o transformador nãe era o 7805.
 
+## Layout PCB:
+
+<img src="https://github.com/user-attachments/assets/2a6c0bfe-b519-4bf8-878c-9a7f0fd122e8" width="600">
+
+
+
