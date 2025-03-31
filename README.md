@@ -16,6 +16,6 @@
 ## Pratica
 <img src="https://github.com/user-attachments/assets/a0220f77-21dd-4da2-9370-1a2f81049668" width="600">
 <img src="https://github.com/user-attachments/assets/25008662-3cba-4188-ae58-27f07a48cfe8" width="600">
-<img src="https://github.com/user-attachments/assets/067de59f-9706-4fc0-9ac4-9bb7780b30a4" width="600">
+<img src="https://github.com/user-attachments/assets/5fe5bb0c-a35a-48fc-a7b9-e861a761ceaf" width="600">
 <img src="https://github.com/user-attachments/assets/067de59f-9706-4fc0-9ac4-9bb7780b30a4" width="600">
 
